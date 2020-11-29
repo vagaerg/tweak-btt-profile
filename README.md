@@ -8,3 +8,8 @@ This was mostly a fun exercise to figure out what the profile files look like.
 ## How to run:
 
 `./tweak_profile.py [bttprofilezip file]`
+
+
+## How to fix the gesture bar popping up after Cmd+Tab
+
+- Disable the blue emoji item under "Unsupported apps": "Active touch group"
